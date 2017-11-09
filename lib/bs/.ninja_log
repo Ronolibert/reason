@@ -1,0 +1,11 @@
+# ninja log v5
+0	105	1510203440	src/Main.mlast	3143c6526dd31647
+0	106	1510203440	src/TodoApp.mlast	d01ff623f763d094
+106	117	1510203440	src/TodoApp.mlast.d	351e6992993adeab
+105	117	1510203440	src/Main.mlast.d	ff22888bbc624ca6
+0	37	1510203440	src/TodoApp.cmj	28802f8d789e5631
+0	37	1510203440	/Users/RCourseKey/courseKey/reason?/todo/lib/js/src/TodoApp.js	28802f8d789e5631
+0	37	1510203440	src/TodoApp.cmi	28802f8d789e5631
+37	53	1510203440	src/Main.cmj	6261225cd3c718
+37	53	1510203440	/Users/RCourseKey/courseKey/reason?/todo/lib/js/src/Main.js	6261225cd3c718
+37	53	1510203440	src/Main.cmi	6261225cd3c718
